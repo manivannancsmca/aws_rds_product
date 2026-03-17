@@ -1,6 +1,6 @@
 # Spring Boot Product CRUD API
 
-[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-21-blue.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green.svg)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-brightgreen.svg)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
